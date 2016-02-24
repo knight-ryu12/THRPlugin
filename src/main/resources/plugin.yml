@@ -1,0 +1,37 @@
+name: THRPlugin
+main: net.yeahsaba.tanikyan.thr.THRPlugin
+author: mireiyu,Tanikyan
+version: 0.1
+commands:
+   touhouraces:
+      description: Version
+   thr help:
+      description: help
+   thr reload:
+      description: Reload
+   thr racelist:
+      description: online race list.
+   thr setrace:
+      description: set player race.
+   thr setpoint:
+      description: set player point.
+   thr addpoint:
+      description: add player point.
+   thr steppoint:
+      description: add player point 1 if current point is not over max.
+   thr:
+      description: error.
+   thr mana:
+      description: check mana.
+   thr heal-mana:
+      description: heal mana.
+   thr toggleskill:
+      description: enable/disable skills.
+   thr evollist:
+      description: list evolable races.
+   thr evolinfo:
+      description: info of race.
+   thr info:
+      description: info of commander race.
+   thr evolchange:
+      description: try evoling for selected race
